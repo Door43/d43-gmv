@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gmv:home|Door43 (gmv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gmv|d43-gmv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gmv/archive/master.zip|d43-gmv.zip]]
+
+**Recent Changes**
+{{changes>ns = gmv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gmv|Ethnologue data]]
+
